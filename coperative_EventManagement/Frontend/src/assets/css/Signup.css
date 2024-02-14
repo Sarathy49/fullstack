@@ -1,0 +1,59 @@
+.continer {
+    background-image: url('https://img.freepik.com/free-vector/key-concept-illustration_114360-6305.jpg?size=626&ext=jpg&uid=R135791312&ga=GA1.1.1428761677.1689065684&semt=sph');
+    background-repeat: no-repeat;
+    margin-left: 630px;
+   margin-bottom: 50px;
+   margin-top: 5%;
+    width: 50%;
+    animation: slideIn 1s ease-in-out;
+}
+.App
+{
+    background-image: url('https://img.freepik.com/free-vector/gift-shopping-checklist-girl-cartoon-character-buying-presents-online-e-commerce-gift-card-promotion-birthday-anniversary-bonus-vector-isolated-concept-metaphor-illustration_335657-1282.jpg?size=626&ext=jpg&ga=GA1.1.2030620766.1677421819&semt=ais');
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.l{
+  display: flex;
+  margin-left: 100px;
+}
+.lo
+{
+    color: rgb(138,43,226);
+}
+
+.mn
+{
+    border: 2px solid blueviolet;
+    height: 35px;
+    width: 30%;
+    background-color: white;
+    animation: slideIn 1s ease-in-out;
+}
+.ps
+{
+    border: 2px solid blueviolet;
+    height: 35px;
+    width: 30%;
+    background-color: white;
+    animation: slideIn 1s ease-in-out;
+}
+.fib
+{
+    text-align: center;
+}
+.lo{
+    padding-left: 70px;
+}
+.bt
+{
+    
+    height: 30px;
+    width:70px;
+    color: green;
+    
+}
+.dt
+{
+    color:  rgb(138,43,226);
+}

@@ -1,0 +1,47 @@
+.awards {
+    background-color: rgb(251, 244, 244);
+    color: #27ae60;
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    /* border-radius: 20%; */
+    #122947
+  }
+  .awards .heading {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .awards .heading p {
+    color:  #27ae60;
+  }
+  .awards .heading h1 {
+    color: #27ae60;
+    font-size: 30px;
+    font-weight: 400;
+  }
+  .awards .icon {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    margin: auto;
+    margin-top: 50px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4% 50%;
+    font-size: 32px;
+    color:  #27ae60;
+  }
+  .awards h1 {
+    font-size: 50px;
+  }
+  .awards p {
+    color: #27ae60;
+  }
+  .grid4 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+  }
+  /* .mtop{
+    margin-top: 50px;
+
+  } */
